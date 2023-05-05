@@ -1,6 +1,9 @@
 # Sales-Insights-PowerBI
 
 This Project give sales insight of Atliq Hardware across India .
+Top 5 Products by revenue, Top 5 customers by revenue
+Delhi and Mumbai is having the Highest Revenue
+In 2018 January had the highest revenue, July in 2019 , consistent so far in 2020 
 
 Dashboard:
 
